@@ -1,10 +1,10 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/WpfApplication3/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfApplication3/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/WpfApplication3/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication3/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/WpfApplication3/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication3/MainWindow.xaml.vb))
 * [PivotFieldsChooser.xaml](./CS/WpfApplication3/PivotFieldsChooser.xaml) (VB: [PivotFieldsChooser.xaml](./VB/WpfApplication3/PivotFieldsChooser.xaml))
-* [PivotFieldsChooser.xaml.cs](./CS/WpfApplication3/PivotFieldsChooser.xaml.cs) (VB: [PivotFieldsChooser.xaml](./VB/WpfApplication3/PivotFieldsChooser.xaml))
+* [PivotFieldsChooser.xaml.cs](./CS/WpfApplication3/PivotFieldsChooser.xaml.cs) (VB: [PivotFieldsChooser.xaml.vb](./VB/WpfApplication3/PivotFieldsChooser.xaml.vb))
 * [TreeViewFieldsPresenterEx.cs](./CS/WpfApplication3/TreeViewFieldsPresenterEx.cs) (VB: [TreeViewFieldsPresenterEx.vb](./VB/WpfApplication3/TreeViewFieldsPresenterEx.vb))
 * [VisualHelper.cs](./CS/WpfApplication3/VisualHelper.cs) (VB: [VisualHelper.vb](./VB/WpfApplication3/VisualHelper.vb))
 <!-- default file list end -->
