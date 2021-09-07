@@ -1,7 +1,7 @@
 <Window xmlns:dxpg="http://schemas.devexpress.com/winfx/2008/xaml/pivotgrid" x:Class="WpfApplication3.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:core="clr-namespace:DevExpress.Xpf.Core;assembly=DevExpress.Xpf.Core.v13.2"
+        xmlns:core="clr-namespace:DevExpress.Xpf.Core;assembly=DevExpress.Xpf.Core.v21.1"
         Title="MainWindow" Height="350" Width="525"
         core:ThemeManager.Theme="Office2007Silver"
         >

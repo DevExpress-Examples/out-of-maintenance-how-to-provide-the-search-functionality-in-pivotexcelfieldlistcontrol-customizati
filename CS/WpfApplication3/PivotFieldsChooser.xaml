@@ -3,8 +3,8 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core" 
                     xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
-                    xmlns:dxpgi="clr-namespace:DevExpress.Xpf.PivotGrid.Internal;assembly=DevExpress.Xpf.PivotGrid.v13.2"
-                    xmlns:dxpg="clr-namespace:DevExpress.Xpf.PivotGrid;assembly=DevExpress.Xpf.PivotGrid.v13.2"
+                    xmlns:dxpgi="clr-namespace:DevExpress.Xpf.PivotGrid.Internal;assembly=DevExpress.Xpf.PivotGrid.v21.1"
+                    xmlns:dxpg="clr-namespace:DevExpress.Xpf.PivotGrid;assembly=DevExpress.Xpf.PivotGrid.v21.1"
                     xmlns:local="clr-namespace:WpfApplication3"                    
                     >
     <dx:BooleanToVisibilityConverter x:Key="boolToVisibilityConverter" />

@@ -1,0 +1,52 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WpfApplication3</RootNamespace>
+    <AssemblyName>WpfApplication3</AssemblyName>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <UseWindowsForms>true</UseWindowsForms>
+    <UseWPF>true</UseWPF>
+    <Platforms>x86;AnyCPU</Platforms>
+    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+    <DefaultItemExcludes>obj*/**</DefaultItemExcludes>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\delete-normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="DevExpress.Data" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Data.Desktop" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Mvvm" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Office.Core" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Pdf.Core" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.PivotGrid.Core" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Printing.Core" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.RichEdit.Core" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.RichEdit.Export" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Core" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Grid.Core" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.LayoutControl" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.PivotGrid" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Printing" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Reporting" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.DXStyle" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.LightGray" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.MetropolisDark" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.MetropolisLight" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.Office2007Black" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.Office2007Blue" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.Office2007Silver" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.Office2010Black" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.Office2010Blue" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.Office2010Silver" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.Office2013" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.Seven" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.VS2010" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.All" Version="21.1.*-*" />
+  </ItemGroup>
+</Project>
